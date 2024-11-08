@@ -17,7 +17,7 @@ To prepare the data for analysis, I performed several data cleaning steps and cr
    - **Age Groups**: Created an “Age Group” column to categorize users into age brackets (e.g., 18-24, 25-34, 35-44, etc.) for easier demographic analysis.
    - **Screen Time Categories**: Added a “Screen Time Category” column to segment users into "Low," "Medium," and "High" screen time groups based on average hours of daily screen time.
 
-Check all the **DAX formulas and KPI measures** by clicking [here](https://github.com/KameshBhardwaj/DAX-formulas-and-KPIs-Measures).
+Check all the **DAX formulas and KPI measures** in the [DAX formulas and KPIs Measures folder](./DAX-formulas-and-KPIs-Measures).
 
 ## 📈 Visualizations in Power BI  
 The Power BI dashboard includes various visualizations to illustrate key insights into mobile user behavior:
@@ -78,4 +78,4 @@ Based on the insights from this analysis, the following recommendations are prop
    Conduct deeper analyses on app usage types to understand which apps contribute most to battery drain and screen time across different user segments.
 
 ## 🚀 Conclusion  
-This project was a practical application of my skills in data transformation, DAX calculations, and visualization in Power BI. The Mobile User Behavior Dashboard successfully highlights behavioral patterns across demographics, offering a foundation for data-driven product development and user engagement strategies. For all custom DAX formulas and KPI measures, please refer to the dedicated folder in my GitHub repository [here](https://github.com/KameshBhardwaj/DAX-formulas-and-KPIs-Measures).
+This project was a practical application of my skills in data transformation, DAX calculations, and visualization in Power BI. The Mobile User Behavior Dashboard successfully highlights behavioral patterns across demographics, offering a foundation for data-driven product development and user engagement strategies. For all custom DAX formulas and KPI measures, please refer to the dedicated folder in my GitHub repository [DAX formulas and KPIs Measures folder](./DAX-formulas-and-KPIs-Measures).
